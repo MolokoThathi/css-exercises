@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd-values {
+    background: rgb(255,192 ,203);
+    font-family: Verdana, "dejavu Sans", sans-serif;
+}
+
+
+.font-24 {
+    font-size: 24px;
+}
+
+#id-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-4 {
+    background-color: hsl(85, 84%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
