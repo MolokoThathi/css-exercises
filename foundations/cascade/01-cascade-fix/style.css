@@ -5,6 +5,9 @@ body {
 
 .para {
   font-size: 22px;
+  /* background-color: green; */
+  /* height:auto; */
+  /* width: 500px */
 }
 
 .small-para {
@@ -44,6 +47,25 @@ div.text {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+  /* display: inline-block; */
+}
+
+/* testing css */
+/* body {
+  width: 500px;
+  margin: 0 auto;
+} */
+
+p {
+  background: rgb(255 84 104 / 30%);
+  border: 2px solid rgb(255 84 104);
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  background: white;
+  border: 1px solid black;
 }
 
 
